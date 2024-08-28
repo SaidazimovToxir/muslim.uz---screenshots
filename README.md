@@ -11,7 +11,7 @@
 <img src="https://github.com/user-attachments/assets/96852946-b3fd-4dda-ba84-f2c141b0ce30" width="300" />
 
 # Shuruk
-<img src="https://github.com/user-attachments/assets/4320cc4f-e316-4315-9c84-e1636b7da661" width="300" />
+<img src="https://github.com/user-attachments/assets/01ebcefd-6130-41cd-8374-033a7aae59a6" width="300" />
 
 # Dhuhr
 <img src="https://github.com/user-attachments/assets/13070cec-8ae9-44cb-9686-5ce99f8a64ac" width="300" />
@@ -20,7 +20,7 @@
 <img src="https://github.com/user-attachments/assets/a83a518b-d551-4026-a703-d7e9921f7e39" width="300" />
 
 # Maghrib
-<img src="https://github.com/user-attachments/assets/2b8a03bc-36db-4e4a-a88f-acad98fa992b" width="300" />
+<img src="https://github.com/user-attachments/assets/c02ccc84-0346-4b88-8194-c52ff0109c21" width="300" />
 
 # Isha
 <img src="https://github.com/user-attachments/assets/46066bf3-5d4f-4b3f-81f9-2e339b9ffd5f" width="300" />
